@@ -93,5 +93,5 @@ Performance will be evaluated by comparing results before and after the campaign
 Instructor : Eng. Mohammed El Aswad
 
 Project Files :
-Week 1 : https://drive.google.com/drive/folders/1Vx97j5FrRu2IDICwHvrZNsdvikLwgbVA
-Week 2 : 
+https://drive.google.com/drive/folders/1Vx97j5FrRu2IDICwHvrZNsdvikLwgbVA?usp=drive_link
+
